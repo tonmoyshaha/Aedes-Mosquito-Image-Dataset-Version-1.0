@@ -1,5 +1,5 @@
-# Aedes-Mosquito-Image-Dataset-Version-1.0 (AMID-v1.0)
 ## Aedes Mosquito Image Dataset Version 1.0 (AMID v1.0)
+![License](cc.png)
 ## Introduction
 The outbreak of dengue fever in recent years has become a grave public health concern as it has spread to 20 countries in South America and South Asia. As vectors of the flavivirus, several mosquito species belonging to the Aedes genus are responsible for transmitting dengue fever. Effective vector surveillance and control are essential in reducing dengue outbreaks. However, due to their minute variations in anatomical structure, it is challenging to identify Aedes mosquitoes without expert entomologists using a microscope. In this regard, deep learning algorithms can play a vital role in identifying mosquitoes using smartphone-captured images and pave the way for deskilling automated vector surveillance, provided that sufficient training examples are available. 
 
