@@ -54,13 +54,13 @@ Each image is assigned a name following the format of SourceCode_ClassLabel_Crop
 
 * * *
 
-#Collection Methodology
+# Collection Methodology
 
 In AMID v1.0, our mosquito images are collected by setting up traps in various locations within ICDDR,B, Bangladesh University of Engineering and Technology (BUET) and University of Dhaka (DU). We utilized BG-Sentinel traps containing human sweat extract that attracted Aedes mosquitoes. Additional mosquito image samples were collected from the open-access dataset “Mosquito Alert" and images provided by WHO accredited breeding laboratory. We did not use any automatic web scrapers. In this work, we mainly focus on distinguishing Aedes mosquitoes like *Aedes aegypti, Aedes koreicus, Aedes albopictus,* and *Aedes japonicus* from other mosquito species. Entomologists in ICDDR,B and the entomology department at the University of Dhaka properly verified & labeled all the images of mosquitoes. Through a two-step screening process, out of focus, low-resolution images devoid of mosquito information and low-quality images are discarded, and only the unique images that meet the quality requirements are selected. Next, the images were cropped according to the region of interest by the YOLO model and resized to 256 × 256 pixels, maintaining the aspect ratio. 
 
 * * *
 
-#Web-Application
+# Web-Application
 
 A web app prototype has already been created using the open-source Python streamlit framework with a flask core, and it has been hosted on the streamlit server for an improved user experience, since our goal is to create an end-to-end solution that begins with dataset creation and ends with a live web application. 
 
