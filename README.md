@@ -64,4 +64,4 @@ In AMID v1.0, our mosquito images are collected by setting up traps in various l
 
 A web app prototype has already been created using the open-source Python streamlit framework with a flask core, and it has been hosted on the streamlit server for an improved user experience, since our goal is to create an end-to-end solution that begins with dataset creation and ends with a live web application. 
 
-![](webapp.png)
+![web app](webapp.png)
