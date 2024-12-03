@@ -38,7 +38,7 @@ The dataset contains a total of 31999 images from 3 sources. The class distribut
 | **Total No. of Images (Source Wise)** | **29,973**                       | **527**                    | **1,499**               | **31,999**                             |
 
 
-This dataset has 8 subfolders, which contain 7 kinds of mosquito images and 1 folder (other_species) for non-mosquito images.
+This dataset has 8 subfolders, which contain 7 kinds of mosquito images and 1 folder (other: non-mosquito) for non-mosquito images.
 
 * * *
 
