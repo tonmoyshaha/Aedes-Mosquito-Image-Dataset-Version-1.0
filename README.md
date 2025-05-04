@@ -14,7 +14,9 @@ A graphical representation of our working pipeline: <br />
 
 # Contents
 
-In this study, we developed the “Aedes Mosquito Image Dataset,” consisting of smartphone-captured mosquito images consisting of 8 class labels: Aedes aegypti, Aedes koreicus, Aedes albopictus, Culex pipiens, Armigeres subalbatus, Culex quinquifasciatus, Aedes japonicus, and others (non-mosquito). The images are collected by trapping mosquitoes in several locations in Dhaka, followed by image capture and expert annotations in collaboration with ICDDR,B. Additional image data is collected from open-access online repositories. 
+In this study, we developed the “Aedes Mosquito Image Dataset,” consisting of smartphone-captured mosquito images consisting of 8 class labels: Aedes aegypti, Aedes koreicus, Aedes albopictus, Culex pipiens, Armigeres subalbatus, Culex quinquifasciatus, Aedes japonicus, and others (non-mosquito). The images are collected by trapping mosquitoes in several locations in Dhaka, followed by image capture and expert annotations in collaboration with ICDDR,B. Additional image data is collected from open-access online repositories. <br />
+
+The dataset itself is available for download at the [Kaggle](https://www.kaggle.com/datasets/tonmoy406/aedes-mosquito-image-dataset-version-1-0amid-v1) <br />
 
 Some sample images from dataset: <br />
 
@@ -65,3 +67,21 @@ In AMID v1.0, our mosquito images are collected by setting up traps in various l
 A web app prototype has already been created using the open-source Python streamlit framework with a flask core, and it has been hosted on the streamlit server for an improved user experience, since our goal is to create an end-to-end solution that begins with dataset creation and ends with a live web application. 
 
 ![web app](webapp.png)
+
+* * *
+
+# Citation
+If this dataset helped your research, please cite the following articles: <br />
+
+Joarder, M. K., Saha, T. C., & Hasan, T. (2024). [Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images.](https://www.researchgate.net/publication/391427909_Exploring_Deep_Learning_Algorithms_for_Aedes_Mosquito_Detection_from_Smartphone_Images)
+
+<!--
+Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). [Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study.](https://arxiv.org/abs/2207.03342) arXiv preprint arXiv:2207.03342.
+ 
+ >@article{Nafisa2022,<br />
+   title={Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study},<br />
+   author={Ali, Shams Nafisa and Ahmed, Md. Tazuddin and Paul, Joydip  and Jahan, Tasnim and Sani,  S. M. Sakeef and Noor, Nawshaba and Hasan, Taufiq},<br />
+   journal={arXiv preprint arXiv:2207.03342},<br />
+   year={2022}<br />
+ }
+ -->
