@@ -73,10 +73,11 @@ A web app prototype has already been created using the open-source Python stream
 # Citation
 If this dataset helped your research, please cite the following paper: <br />
 
-Joarder, M. K., Saha, T. C., Paul, J., Alam, M. S. & Hasan, T. (2024). [Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images.](https://ieeexplore.ieee.org/document/11021740)
+[Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images.](https://ieeexplore.ieee.org/document/11021740)
 
 
 <!--
+Joarder, M. K., Saha, T. C., Paul, J., Alam, M. S. & Hasan, T. (2024). [Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images.](https://ieeexplore.ieee.org/document/11021740)
 >@article{Joarder2024,<br />
   title={Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images},<br />
   author={Joarder, Mahian Kabir and Saha, Tonmoy Chandro  and Paul, Joydip and Alam, Mohammad Shafiul and Hasan, Taufiq},<br />
