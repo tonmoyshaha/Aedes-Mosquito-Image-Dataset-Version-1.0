@@ -71,10 +71,20 @@ A web app prototype has already been created using the open-source Python stream
 * * *
 
 # Citation
-If this dataset helped your research, please cite the following articles: <br />
+If this dataset helped your research, please cite the following paper: <br />
 
-Joarder, M. K., Saha, T. C., & Hasan, T. (2024). [Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images.](https://www.researchgate.net/publication/391427909_Exploring_Deep_Learning_Algorithms_for_Aedes_Mosquito_Detection_from_Smartphone_Images)
+Joarder, M. K., Saha, T. C., Paul, J., Alam, M. S. & Hasan, T. (2024). [Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images.](https://ieeexplore.ieee.org/document/11021740)
 
+
+<!--
+>@article{Joarder2024,<br />
+  title={Exploring Deep Learning Algorithms for Aedes Mosquito Detection from Smartphone Images},<br />
+  author={Joarder, Mahian Kabir and Saha, Tonmoy Chandro  and Paul, Joydip and Alam, Mohammad Shafiul and Hasan, Taufiq},<br />
+  conferences={27th International Conference on Computer and Information Technology (ICCIT)},<br />
+  year={2024},<br />
+  publisher={IEEE}<br />
+}
+ -->
 <!--
 Ali, S. N., Ahmed, M. T., Paul, J., Jahan, T., Sani,  S. M. Sakeef, Noor, N., & Hasan, T. (2022). [Monkeypox Skin Lesion Detection Using Deep Learning Models: A Preliminary Feasibility Study.](https://arxiv.org/abs/2207.03342) arXiv preprint arXiv:2207.03342.
  
